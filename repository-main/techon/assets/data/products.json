@@ -1,0 +1,50 @@
+{
+    "vegetables":[
+        {"name":"Gobi-Aloo","price":"","detail":"Indian Food: Gobi Aloo with cauliflower and vegetables close-up on a plate. horizontal top view","image":"gobi-aloo.jpg","category":"vegetable"},
+        {"name":"","price":"","detail":"","image":"","category":"vegetable"},
+        {"name":"","price":"","detail":"","image":"","category":"vegetable"},
+        {"name":"","price":"","detail":"","image":"","category":"vegetable"},
+        {"name":"","price":"","detail":"","image":"","category":"vegetable"},
+        {"name":"","price":"","detail":"","image":"","category":"vegetable"}
+    ],
+    "non-vegetables":[
+        {"name":"","price":"","detail":"","image":"", "category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""}
+    ],
+    "mix-food":[
+        {"name":"","price":"","detail":"", "image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""}
+    ],
+    "sweet-dishes":[
+        {"name":"","price":"","detail":"","image":"", "category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""}
+    ],
+    "special-food":[
+        {"name":"","price":"","detail":"","image":"", "category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""}
+    ],
+    "healthy-food":[
+        {"name":"","price":"","detail":"","image":"", "category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""},
+        {"name":"","price":"","detail":"","image":"","category":""}
+    ]
+}
